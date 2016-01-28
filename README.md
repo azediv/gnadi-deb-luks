@@ -2,7 +2,6 @@
 
 This Howto describe a process to create a raw vm of Debian with an encrypted root partition on Gandi servers.
 Step 1, 2 and 5 are common to other distribution.
-As we are looking for a way to improve new distribution deployment, this process might be declined for other use case.
 
 1. creation of a vm with all tools to start minimal installation of "any" distribution on Gandi IaaS VPS/servers
 2. creation of target disk that will be use as target disk and is needed for "any" distribution.
